@@ -92,7 +92,6 @@ body {
 }
 
 
-
 .final {
   text-align: center;
 
@@ -111,7 +110,7 @@ body {
 
 .gps {
   text-align: center;
-  
+
 
 }
 
@@ -125,8 +124,9 @@ body {
 .carousel {
   width: 50%;
 }
-.contenedor2{
-  
+
+.contenedor2 {
+
   display: flex;
   justify-content: center;
 
@@ -134,20 +134,16 @@ body {
 
 }
 
-.navbar-brand{
-  
+.navbar-brand {
+
   color: rgb(241, 15, 15);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 80px;
-  
-}
 
-.cont{
-  background-color: rgba(197, 23, 46, 0.85);
-  
 }
 
 
+.navbar {
 
-
-
+  background-color: blanchedalmond;
+}
