@@ -4,7 +4,7 @@
   border: 1px;
 }
 
-
+/*COLOR AL SUBTITULO*/
 
 
 h2 {
@@ -19,6 +19,7 @@ h2 {
 
 }
 
+/*COLOR A LA PAGINA*/
 body {
   background-color: rgba(185, 187, 127, 0.678);
 }
@@ -44,6 +45,7 @@ body {
   display: inline-flex;
 }
 
+/*COLOR SEGUN LAS PANTALLAS*/
 @media (max-width:900px) {
   body {
     background-color: rgb(19, 210, 210);
@@ -62,6 +64,7 @@ body {
   }
 }
 
+/* ANIMACION A LA INFO */
 .sobre {
   animation-duration: 4s;
   animation-name: animacion;
@@ -91,14 +94,13 @@ body {
 
 }
 
-
 .final {
+
   text-align: center;
-
-
 
 }
 
+/*INFO*/
 .sobre {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: rgba(21, 128, 40, 0.982);
@@ -108,12 +110,14 @@ body {
   border: 20px;
 }
 
+/*GPS*/
 .gps {
   text-align: center;
 
 
 }
 
+/*contactos*/
 .contenedor1 {
   display: flex;
   flex-direction: row;
@@ -121,6 +125,7 @@ body {
 
 }
 
+/*carousel*/
 .carousel {
   width: 50%;
 }
